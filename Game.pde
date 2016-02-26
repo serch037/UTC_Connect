@@ -3,11 +3,11 @@ class Game extends SmallGame{
   boolean playerBegins;
   Move lastMove;
   Game(boolean turn){
-    board = new int[3][3];
+    //board = new int[3][3];
     
     board = new int[][] {
-      {1,-1,0},
-      {1,0,0},
+      {-1,0,0},
+      {-1,0,0},
       {0,0,0}
     };
     
@@ -41,7 +41,7 @@ class Game extends SmallGame{
       return 1; 
     } else{
       board[y][x] = human;
-      lastMove.setMove(x,y);
+      lastMove.setMove(x,y,-1);
       
 //      println("X: ", x, "Y: ", y);
     }
@@ -55,25 +55,28 @@ class Game extends SmallGame{
     } else{
       println("Final: ", "( ", x, ", ",y, " )");
       board[y][x] = computer; 
-      lastMove.setMove(x,y);
+      lastMove.setMove(x,y,-1);
     }
       return 0; 
     }
     
   void computerTurn(){
+    //bestmove = -9999;
     println("First call", turnOfPlayer);
     output.println("FirstCall");
     printArray();
     printEval();
     output.println("BeginMiniMAX");
-    if (getMoves() ==0){
-    //userTurn2(moves.get(0));
-    bestMove = miniMax(this,0).bestMove;
+    int tmp[] = miniMax2(0,true);
+    evaluate();
+    //userTurn2(new Move(tmp[1],tmp[2]));
+    output.println("Final: " +tmp[1]+ " , "+tmp[2]);
     output.println("EndMiniMax");
+    output.println("Total: "+totalCases);
+    output.println("End: "+endCases);
     printMove(bestMove);
     //userTurn2(bestMove);
-    }
-   //suserTurn2(bestMove);
+   //userTurn2(bestMove);
   }
     int userTurn2(Move x){
       //printMove(x);

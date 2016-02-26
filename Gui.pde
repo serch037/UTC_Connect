@@ -4,7 +4,7 @@ class Gui{
   boolean waitInput; 
   int tmpX, tmpY;
   Gui(){
-    test = new Game(false); 
+    test = new Game(true); 
     waitInput = true; 
     dist1 = 500/3;
     dist2 = 5; 
@@ -98,5 +98,21 @@ class Gui{
     }
     }
   }
+  
+  void test(){
+  int array[][]= new int[][] {
+      {1,-1,0},
+      {0,1,0},
+      {0,0,0}
+    };
+  SmallGame tmp = new SmallGame(false, array);
+  tmp.evaluate();
+  tmp.whoWon();
+  output.println(tmp.computerWon+", "+tmp.humanWon+", "+tmp.tieWon);
+  tmp.printEval();
+  //output.print(tmp.miniMax3());
+  //tmp.printMove(tmp.chooseBest3());
+  tmp.miniMax2(0,true);
+}
   
 }

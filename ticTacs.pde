@@ -1,4 +1,6 @@
   PrintWriter output;
+  int totalCases = 0; 
+  int endCases =0;
   import java.util.*; 
 Gui test; 
 void setup(){
@@ -6,10 +8,11 @@ void setup(){
   test = new Gui();
   test.drawGrid();
   output = createWriter("positions.txt");
+  test.test();
 }
 void draw(){
-  test.turn();
-  test.drawMoves();
+  //test.turn();
+  //test.drawMoves();
 }
 
 void mouseClicked(){
