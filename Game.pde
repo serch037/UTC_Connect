@@ -4,13 +4,13 @@ class Game extends SmallGame{
   Move lastMove;
   Game(boolean turn){
     board = new int[3][3];
-    /*
+    
     board = new int[][] {
       {1,-1,0},
-      {1,-1,0},
-      {0,0,-1}
+      {1,0,0},
+      {0,0,0}
     };
-    */
+    
     playerBegins = turn;
     turnOfPlayer = turn;
     continueGame = true; 
@@ -21,26 +21,19 @@ class Game extends SmallGame{
     human = 1;
     computer = -1;
     moves  = new ArrayList<Move>();
+    evaluate();
+ //   printEval();
     //moves  = new ArrayList<Integer[]>();
   }
   
-  void printArray(){
-    for (int y = 0; y<3;y++){
-        for (int x = 0; x<3; x++){
-      print(" | ", board[y][x]);
-    }
-    println();
-    }
-  }
+
   
  void printMoves(ArrayList<Move> moves){
    for (Move x : moves){
      println("( ", x.moveX, ", ",x.moveY, " )");
    }
  }
-     void printMove(Move move){
-     println("The move is ", "( ", move.moveX, ", ",move.moveY, " )");
- }
+
  
   int userTurn(int x, int y){
     if (board[y][x] != 0){
@@ -69,17 +62,21 @@ class Game extends SmallGame{
     
   void computerTurn(){
     println("First call", turnOfPlayer);
+    output.println("FirstCall");
+    printArray();
+    printEval();
+    output.println("BeginMiniMAX");
     if (getMoves() ==0){
-    userTurn2(moves.get(0));
-    //SmallGame dummy = new SmallGame(this, moves.get(0), true);
+    //userTurn2(moves.get(0));
     bestMove = miniMax(this,0).bestMove;
-    //printMove(bestMove);
+    output.println("EndMiniMax");
+    printMove(bestMove);
     //userTurn2(bestMove);
     }
    //suserTurn2(bestMove);
   }
     int userTurn2(Move x){
-      printMove(x);
+      //printMove(x);
     if (board[x.moveY][x.moveX] != 0){
       println("ERROR");
       return 1; 

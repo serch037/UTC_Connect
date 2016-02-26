@@ -4,7 +4,7 @@ class Gui{
   boolean waitInput; 
   int tmpX, tmpY;
   Gui(){
-    test = new Game(true); 
+    test = new Game(false); 
     waitInput = true; 
     dist1 = 500/3;
     dist2 = 5; 
