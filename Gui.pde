@@ -21,22 +21,27 @@ class Gui{
   }
   
   int turn(){
-    if(test.continueGame||true){
+    if(test.continueGame){
       //println("Enter turn", waitInput, test.turnOfPlayer);
     if (test.turnOfPlayer){  
-      if(waitInput) return 1; 
+      if(waitInput){ waitInput = true; return 1;}
       //println("Finish loop2", tmpX, tmpY, waitInput);
       if (test.userTurn(tmpX,tmpY) != 0) return 1;
       test.evaluate(tmpX,tmpY, test.human);
-      test.turnOfPlayer = !test.turnOfPlayer;
+      //test.printEval();
+      test.turnOfPlayer = false;
       waitInput = true; 
     }else{
-      if(waitInput) return 1; 
-      //println("Finish loop2", tmpX, tmpY, waitInput);
-      //test.userTurn2(tmpX,tmpY);
-      if (test.userTurn2(tmpX,tmpY) != 0) return 1;
+      //if(waitInput){ waitInput = true; return 1;}
+      ////println("Finish loop2", tmpX, tmpY, waitInput);
+      ////test.userTurn2(tmpX,tmpY);
+      //if (test.userTurn2(tmpX,tmpY) != 0) return 1;
+      test.computerTurn();
+      println("Finish computer turn");
+      tmpX = test.lastMove.moveX;
+      tmpY = test.lastMove.moveY;
       test.evaluate(tmpX,tmpY, test.computer);
-      test.turnOfPlayer = !test.turnOfPlayer;
+      test.turnOfPlayer = true;
       waitInput = true; 
     }
     
@@ -70,6 +75,7 @@ class Gui{
     tmpY = y;
     //test.board[y][x] = test.player; 
   }
+  
   
   void drawMoves(){
     fill(0);

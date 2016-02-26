@@ -1,60 +1,91 @@
-import java.util.*; 
 //1 == x , -1 == 0
-class Game{
-  int board[][];
-  boolean turnOfPlayer, playerBegins;
-  Scanner reader; 
-  int human, computer;
-  boolean continueGame;
-  int diag1, diag2;
-  int row[], col[];
-  
+class Game extends SmallGame{
+  boolean playerBegins;
+  Move lastMove;
   Game(boolean turn){
     board = new int[3][3];
+    /*
+    board = new int[][] {
+      {1,-1,0},
+      {1,-1,0},
+      {0,0,-1}
+    };
+    */
     playerBegins = turn;
     turnOfPlayer = turn;
-    reader = new Scanner(System.in);
     continueGame = true; 
-    if (playerBegins){
-      human = 1;
-      computer =  -1;
-    }else{
-      human = -1;
-      computer =  1;
-    }
     row = new int[3]; 
-    col = new int[3]; 
+    col = new int[3];
+    bestMove = new Move();
+    lastMove = new Move();
+    human = 1;
+    computer = -1;
+    moves  = new ArrayList<Move>();
+    //moves  = new ArrayList<Integer[]>();
   }
   
-  void computerTurn(){
+  void printArray(){
+    for (int y = 0; y<3;y++){
+        for (int x = 0; x<3; x++){
+      print(" | ", board[y][x]);
+    }
+    println();
+    }
   }
   
-  void evaluate(int locX, int locY,int point){
-        row[locY]+=point;
-        col[locX]+=point;
-        if(locX ==locY) diag1+=point;
-        if(abs(locX-locY)==2 || (locX==1 && locY ==1)) diag2+=point;
-        println("Row: ",row[locY], "Col: ", col[locX], "Diag: ", diag1, "Diag: ", diag2, "Delta", point);
-        if (row[locY] == 3 || col[locX] == 3 || diag1 ==3 || diag2 == 3 ||
-        row[locY] == -3 || col[locX] == -3 || diag1 ==-3 || diag2 ==-3) continueGame = false;
-      }
-
-  
+ void printMoves(ArrayList<Move> moves){
+   for (Move x : moves){
+     println("( ", x.moveX, ", ",x.moveY, " )");
+   }
+ }
+     void printMove(Move move){
+     println("The move is ", "( ", move.moveX, ", ",move.moveY, " )");
+ }
+ 
   int userTurn(int x, int y){
     if (board[y][x] != 0){
+//      println("ERROR");
       return 1; 
     } else{
-      board[y][x] = human; 
+      board[y][x] = human;
+      lastMove.setMove(x,y);
+      
+//      println("X: ", x, "Y: ", y);
     }
       return 0; 
     }
 
-  
-    int userTurn2(int x, int y){
+  int userTurn2(int x, int y){
     if (board[y][x] != 0){
+      println("ERROR");
       return 1; 
     } else{
+      println("Final: ", "( ", x, ", ",y, " )");
       board[y][x] = computer; 
+      lastMove.setMove(x,y);
+    }
+      return 0; 
+    }
+    
+  void computerTurn(){
+    println("First call", turnOfPlayer);
+    if (getMoves() ==0){
+    userTurn2(moves.get(0));
+    //SmallGame dummy = new SmallGame(this, moves.get(0), true);
+    bestMove = miniMax(this,0).bestMove;
+    //printMove(bestMove);
+    //userTurn2(bestMove);
+    }
+   //suserTurn2(bestMove);
+  }
+    int userTurn2(Move x){
+      printMove(x);
+    if (board[x.moveY][x.moveX] != 0){
+      println("ERROR");
+      return 1; 
+    } else{
+      board[x.moveY][x.moveX] = computer; 
+      lastMove.setMove(x);
     }
       return 0; 
     }

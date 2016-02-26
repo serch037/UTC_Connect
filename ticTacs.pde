@@ -1,3 +1,4 @@
+  import java.util.*; 
 Gui test; 
 void setup(){
   size(500,500);
@@ -12,5 +13,6 @@ void draw(){
 void mouseClicked(){
   test.waitInput = false;
   test.handleInput(mouseX, mouseY);
-  println("Recieved Input", test.tmpX, test.tmpY);
+  //println("Recieved Input", test.tmpX, test.tmpY, test.test.turnOfPlayer);
+  //test.test.printArray();
 }
