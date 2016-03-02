@@ -36,7 +36,7 @@ public class miniMaxPlayer {
 
     public void playMiniMax() {
         //Move  tmpMove = miniMaxEnd2(mainGame, 0).bestMove;
-        //Move  tmpMove = miniMaxEnd3(mainGame, 0,negLimit,posLimit).bestMove;
+        Move tmpMove = miniMaxEnd3(mainGame, 0, negLimit, posLimit).bestMove;
         System.out.println("Finalized all");
         writer.println("Original\n"+mainGame);
         //System.out.println(tmpMove);
@@ -64,15 +64,18 @@ public class miniMaxPlayer {
             return new result(1000);
         } else if (winner == 'h') {
             writer.println("Human wins");
+            writer.println(tmpGame);
             return new result(-1000);
         } else if (winner == 't') {
-            writer.println("Tie wins");
+            writer.println("Tie wins: ");
+            writer.println(tmpGame);
             return new result(0);
         }
         Move bestMove1 = new Move(-1, -1);
         if (tmpGame.ComputerTurn) {//MAX
             int bestScore1 = negLimit;
             for (Move m : tmpGame.getMoves()) {
+                writer.println("Testing move: " + m);
                 Board newGame = new Board(tmpGame, !tmpGame.ComputerTurn, m);
                 writer.println("Begin recursive max");
                 result aScore = miniMaxEnd2(newGame, depth + 1);
@@ -82,6 +85,8 @@ public class miniMaxPlayer {
                     bestMove1 = m.duplicate();
                     writer.println("Won depth" + depth);
                     if (depth <= 1) {
+                        writer.println(m);
+                        writer.println(bestScore1);
                         System.out.println("Out");
                         bestFinalMoves.clear();
                         bestFinalMoves.add(m);
@@ -137,12 +142,13 @@ public class miniMaxPlayer {
                     alpha = aScore.score;
                     bestMove = m.duplicate();
                     if (depth == 0) {
-                        bestFinalMoves.add(m);
+                        bestFinalMoves.clear();
+                        bestFinalMoves.add(bestMove);
                     }
                 }
                 if (alpha >= beta) break;
             }
-            return new result(bestScore, bestMove);
+            return new result(alpha, bestMove);
         } else {//MIN
             int bestScore = posLimit;
             for (Move m : tmpGame.getMoves()) {
@@ -162,7 +168,7 @@ public class miniMaxPlayer {
                 }
                 if (alpha >= beta) break;
             }
-            return new result(bestScore, bestMove);
+            return new result(beta, bestMove);
 
         }
 

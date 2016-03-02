@@ -150,7 +150,6 @@ return ans;
     }
 
     private int evaluateFixed(){
-        if (getMoves().isEmpty()) return 0;
         int humanCount=0;
         int computerCount =0;
 
@@ -308,7 +307,7 @@ return ans;
                 if (computerCount >= connect) return 1000; //Computer Wins
             }
         }
-
+        if (getMoves().isEmpty()) return 0;
         return -1; //No one won
     }
 
