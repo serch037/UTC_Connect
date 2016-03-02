@@ -4,960 +4,61 @@ Begin recursive min
 Begin recursive max
 Begin recursive min
 Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
 Tie wins
+Won depth4
 End recursive min
 Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive max
 Begin recursive min
 Human wins
 End recursive min
 Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
+Won depth2
 Begin recursive max
 Computer wins
 Won depth2
 Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
 Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
 End recursive min
 Min Score Change
-End recursive min
 Begin recursive min
 Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
+Won depth4
 End recursive min
 Min Score Change
 Begin recursive min
 Human wins
 End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
 Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
+Won depth2
 Begin recursive max
 Computer wins
 Won depth2
 Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
 Computer wins
 End recursive min
 Begin recursive min
 Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
 Begin recursive min
 Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
 Tie wins
+Won depth4
 End recursive min
 Min Score Change
-End recursive min
 Begin recursive min
 Human wins
 End recursive min
 Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
 Won depth2
 Begin recursive max
 Begin recursive min
 Begin recursive max
-Begin recursive min
 Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
 Won depth4
 End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
 Min Score Change
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth2
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth2
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth2
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth2
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth2
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive max
-Computer wins
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Computer wins
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
 Begin recursive min
 Human wins
 End recursive min
@@ -966,1008 +67,229 @@ Begin recursive max
 Computer wins
 Won depth2
 End recursive min
-Begin recursive max
 Begin recursive min
 Human wins
 End recursive min
 Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
+Won depth0
 Begin recursive max
 Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
 Begin recursive max
 Computer wins
 Won depth2
 Begin recursive max
 Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
 Begin recursive max
-Begin recursive min
 Tie wins
+Won depth4
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
 End recursive min
 Min Score Change
 Begin recursive max
 Computer wins
-Won depth4
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
 End recursive min
 Min Score Change
 Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
 Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
 Won depth4
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Human wins
 End recursive min
 Min Score Change
 Begin recursive min
 Human wins
 End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
+Min Score Change
+Won depth2
 Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
+Won depth4
 End recursive min
 Min Score Change
 Begin recursive min
 Human wins
 End recursive min
-Begin recursive min
+Min Score Change
 Begin recursive max
 Computer wins
-Won depth4
+Won depth2
+End recursive min
+Begin recursive min
 Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
+Won depth4
 End recursive min
 Min Score Change
 Begin recursive min
 Human wins
 End recursive min
+Min Score Change
+Won depth2
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Computer wins
+End recursive min
 Begin recursive min
+Human wins
+End recursive min
+Min Score Change
 Begin recursive max
 Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Begin recursive max
 Tie wins
+Won depth4
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
 End recursive min
 Min Score Change
 Begin recursive max
+Computer wins
+End recursive min
+Min Score Change
 Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
 Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
 Won depth4
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Won depth2
 Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
 Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
 End recursive min
 Min Score Change
 Begin recursive min
 Human wins
 End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Computer wins
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
 Min Score Change
+Begin recursive max
+Computer wins
+Won depth2
+End recursive min
 Begin recursive min
 Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
+Won depth4
 End recursive min
 Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Won depth2
 Begin recursive max
 Computer wins
-Won depth4
+Won depth2
+Begin recursive max
+Computer wins
 End recursive min
 Begin recursive min
 Human wins
 End recursive min
 Min Score Change
-End recursive min
-Begin recursive min
 Begin recursive max
 Begin recursive min
 Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
+Won depth4
 End recursive min
 Min Score Change
+Begin recursive min
+Human wins
 End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
+Min Score Change
+Won depth2
 Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
+Won depth4
 End recursive min
 Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
 Begin recursive min
 Human wins
 End recursive min
 Min Score Change
+Begin recursive max
+Computer wins
+Won depth2
+End recursive min
+Min Score Change
 Begin recursive min
 Begin recursive max
 Computer wins
-Won depth4
+Won depth2
 Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
+Won depth4
 End recursive min
 Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Computer wins
-Begin recursive max
 Begin recursive min
 Human wins
 End recursive min
 Min Score Change
+Begin recursive max
+Computer wins
+End recursive min
 Begin recursive min
 Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
 Begin recursive min
+Begin recursive max
 Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
 Won depth4
 End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
 Min Score Change
 Begin recursive min
 Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
 End recursive min
 Min Score Change
 Begin recursive max
 Computer wins
-Won depth4
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
 End recursive min
 Begin recursive min
 Human wins
 End recursive min
 Min Score Change
-Begin recursive min
 Begin recursive max
 Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Human wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Computer wins
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Computer wins
-Won depth4
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive max
-Begin recursive min
-Human wins
-End recursive min
-Min Score Change
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-End recursive min
-Begin recursive min
-Begin recursive max
-Begin recursive min
-Tie wins
-End recursive min
-Min Score Change
-Begin recursive max
-Computer wins
-Won depth4
-End recursive min
-End recursive min
+Won depth0
 Original
- | 0 | 1 | 0
- | -1 | 0 | 0
- | -1 | 0 | 0
+ | 1 | 0 | -1
+ | 0 | 1 | -1
+ | 0 | 0 | 0
 
 

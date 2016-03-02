@@ -1,6 +1,6 @@
 package com.company;
+
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * Created by sergio on 3/1/16.
@@ -84,7 +84,7 @@ return ans;
          Move tmp = new Move(0,0);
         ComputerTurn = true;
         miniMaxPlayer tmpPlayer = new miniMaxPlayer(this);
-        Move aMove = tmpPlayer.playMiniMax();
+        tmpPlayer.playMiniMax();
         move(tmp, computer);
     }
 

@@ -99,11 +99,16 @@ public class connect4 {
                 {-1,0,0},
                 {-1,0,0}
         };
+        test7 = new int[][]{
+                {1, 1, -1},
+                {-1, -1, 1},
+                {1, -1, 0}
+        };
         tests = new ArrayList<Board>();
-        //tests.add(new Board(test1,3));
+        tests.add(new Board(test1, 3));
         //tests.add(new Board(test2,3));
         //tests.add(new Board(test3,3));
-        tests.add(new Board(test6,3));
+        //tests.add(new Board(test7,3));
         //tests.add(new Board(test5,3));
         /*
         tests.add(new Board(test2,4));
