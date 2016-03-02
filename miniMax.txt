@@ -1,0 +1,1973 @@
+Test
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive max
+Computer wins
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Computer wins
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth2
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Computer wins
+Won depth2
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Computer wins
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Computer wins
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Human wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Computer wins
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Computer wins
+Won depth4
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive max
+Begin recursive min
+Human wins
+End recursive min
+Min Score Change
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+End recursive min
+Begin recursive min
+Begin recursive max
+Begin recursive min
+Tie wins
+End recursive min
+Min Score Change
+Begin recursive max
+Computer wins
+Won depth4
+End recursive min
+End recursive min
+Original
+ | 0 | 1 | 0
+ | -1 | 0 | 0
+ | -1 | 0 | 0
+
+
