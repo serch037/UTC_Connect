@@ -34,19 +34,20 @@ public class miniMaxPlayer {
         }
     }
 
-    public void playMiniMax() {
+    public Move playMiniMax() {
         //Move  tmpMove = miniMaxEnd2(mainGame, 0).bestMove;
         Move tmpMove = miniMaxEnd3(mainGame, 0, negLimit, posLimit).bestMove;
-        System.out.println("Finalized all");
+        //System.out.println("Finalized all");
         writer.println("Original\n"+mainGame);
         //System.out.println(tmpMove);
-        //System.out.println(bestMove);
-        System.out.println("TheMoves");
-        System.out.println(mainGame.printMoves(bestFinalMoves));
+        //System.out.printl4n(bestMove);
+        //System.out.println("TheMoves");
         System.out.println(evals);
+        //System.out.println(mainGame.printMoves(bestFinalMoves));
+        //System.out.println(evals);
             writer.flush();
             writer.close();
-        //return tmpMove;
+        return tmpMove;
     }
 
     private void  openWriter() throws FileNotFoundException {
@@ -87,7 +88,7 @@ public class miniMaxPlayer {
                     if (depth <= 1) {
                         writer.println(m);
                         writer.println(bestScore1);
-                        System.out.println("Out");
+                        //System.out.println("Out");
                         bestFinalMoves.clear();
                         bestFinalMoves.add(m);
                     }

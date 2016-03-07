@@ -104,6 +104,11 @@ public class connect4 {
                 {1, 1, -1},
                 {-1, -1, 0}
         };
+        test8 = new int[][]{
+                {0, 0, 0},
+                {0, 0, 0},
+                {0, 0, 0}
+        };
         tests = new ArrayList<Board>();
         tests.add(new Board(test7, 3));
         //tests.add(new Board(test2,3));
@@ -119,20 +124,19 @@ public class connect4 {
         tests.add(new Board(test7,3));
         */
     }
+
+    //connect4() {
+    //    game = new Board(false, false, 7, 6, 4); //User begins connecting four on a 7*6 board
+
+    //}
+
     connect4() {
-        game = new Board(false, false, 7, 6, 4); //User begins connecting four on a 7*6 board
+        game = new Board(true, false, 4, 4, 4); //User begins tic tac toe
 
     }
     public void turn(){
         if (game.ComputerTurn){
-            Scanner reader = new Scanner(System.in);
-            System.out.println("Enter the move coordinates int the format \"x,y\" ");
-            String input = reader.nextLine();
-            int [] coordinates = Arrays.asList(input.split(","))
-                    .stream()
-                    .map(String::trim)
-                    .mapToInt(Integer::parseInt).toArray();
-            game.userTurn(coordinates[0], coordinates[1]);
+            game.computerMove();
             game.ComputerTurn= true;
             game.ComputerTurn =  false;
 
@@ -148,6 +152,19 @@ public class connect4 {
             game.ComputerTurn= true;
         }
     }
+
+    public void turn(int i){
+        if (game.ComputerTurn){
+            game.computerMove();
+            game.ComputerTurn= true;
+            game.ComputerTurn =  false;
+
+        }else{
+            game.computerMove1();
+            game.ComputerTurn= true;
+        }
+    }
+
     public void test(){
         /*
         System.out.println("Begin Simple Evaluations");

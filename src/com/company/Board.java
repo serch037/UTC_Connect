@@ -1,13 +1,15 @@
 package com.company;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Random;
 
 /**
  * Created by sergio on 3/1/16.
  */
 public class Board {
     int board[][];
-    boolean is_gomoku;
+    boolean is_gomoku = true;
     boolean ComputerTurn;
     int Xdim, Ydim;
     ArrayList<Move> moves;
@@ -56,6 +58,17 @@ public class Board {
         ComputerTurn = _computerTurn;
     }
 
+    Board(Board m, Move _m ){//Init with board
+        this(m);
+        makeMove(_m);
+        theMove = _m;
+        ComputerTurn = !m.ComputerTurn;
+    }
+
+    //From theKGS
+    public boolean isComputerTurn(){
+        return ComputerTurn;
+    }
 
     public int[][] cloneBoard(int arr[][]){
         int _X = arr[0].length;
@@ -72,20 +85,43 @@ return ans;
 
     public ArrayList<Move> getMoves(){
         ArrayList<Move> tmp = new ArrayList<Move>();
-        for (int y = 0; y < Ydim;y++) {
-            for (int x = 0; x < Xdim; x++) {
-                if (board[y][x] == 0) tmp.add(new Move(x,y));
+        if (is_gomoku) {
+            for (int y = 0; y < Ydim; y++) {
+                for (int x = 0; x < Xdim; x++) {
+                    if (board[y][x] == 0) tmp.add(new Move(x, y));
+                }
             }
-        }
+        }else {
+                for (int x = 0; x < Xdim; x++) {
+                    if (board[0][x] == 0){
+                        for (int y = Ydim-1; x<=0; y++){
+                            if (board[y][x] == 0){
+                                tmp.add(new Move(x,y));
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+        long seed = System.nanoTime();
+        //Collections.shuffle(tmp, new Random(seed));
         return tmp;
     }
 
     public void computerMove(){
-         Move tmp = new Move(0,0);
+        //Move tmp = new Move(0,0);
         ComputerTurn = true;
         miniMaxPlayer tmpPlayer = new miniMaxPlayer(this);
-        tmpPlayer.playMiniMax();
+        Move tmp = tmpPlayer.playMiniMax();
         move(tmp, computer);
+    }
+
+    public void computerMove1(){
+        //Move tmp = new Move(0,0);
+        ComputerTurn =  false ;
+        miniMaxPlayer tmpPlayer = new miniMaxPlayer(this);
+        Move tmp = tmpPlayer.playMiniMax();
+        move(tmp, human);
     }
 
     public void userTurn(int x, int y){
@@ -95,6 +131,7 @@ return ans;
     public void userTurn2(int x, int y){
         move(new Move(x,y), computer);
     }
+
 
     private void move(Move m, int value){
         board[m.Y][m.X] = value;
